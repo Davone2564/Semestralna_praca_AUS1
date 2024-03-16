@@ -1,16 +1,3 @@
-#  Návrh aplikácie
+# AUS_Semestralna_praca
 
-Moju aplikáciu som si rozdelil do viacerých úrovní. Algoritmy týkajúce
-sa prvej, druhej a tretej úrovni sú poväčšine implementované v triede
-Algoritmus. Nachádzajú sa tu metódy na načítavanie údajov z csv súborov
-a rôzne algoritmy potrebné pre prvé tri úrovne SP. Načítavanie dát v
-druhej a tretej úrovni SP sa realizuje v jednej spoločnej metóde. V
-mojom projekte sa nachádza jedna main trieda s názvom
-SemestralnaPraca.cpp. V tejto triede sú implementované štyri main
-funkcie, medzi ktorými sa môžeme prepínať pomocou preprocesora.
-Implementácia štvrtej úrovne SP, samotný triediaci algoritmus je
-definovaný v samostatnej triede s názvom TriediaciAlgoritmus. Jednotlivé
-územné jednotky sú definované pomocou spoločného predka s názvom
-UzemnaJednotka, ktorej potomkovia sú triedy Kraj, Okres a Obec.
-Potomkovia sa líšia od tohto predka tým že majú definovaný konkrétny typ
-a majú inak implementované metódy toString.
+Semestrálna práca z predmetu Algoritmy a údajové štruktúry, písaná v jazyku C++. Je rozdelená do 4 projektov. Projekt **DataStructures** obsahuje údajové štruktúry implementované na cvičeniach z tohto predmetu. Projekt **GUI** obsahuje guiko k testovaniu správnosti údajových štruktúr implementovaných na cvičení(dostali sme ho už naimplementované). V projekte **SemestralnaPraca** sú naimplementované 4 úrovne semestrálnej práce, ide o načítanie všetkých územných jednotiek Slovenska z excelovských súborov do údajových štruktúr. V každej úrovni načítavame dané územné jednotky do inej údajovej štruktúry. V prvej úrovni do jednoduchej **sekvencie**, v druhej do **hierarchie**, kde v úrovniach sú postupne kraje, okresy a obce s možnosťou prehľadávania celej hierarchie. V tretej úrovni územné jednotky načítavame do **tabuľky** a vo štvrtej úrovni územné jednotky **triedime** na základe kritérií. V poslednom projekte **UnitTest1** testujeme rôzne metódy z projektu **SemestralnaPraca**.

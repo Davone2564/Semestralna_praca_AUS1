@@ -63,10 +63,8 @@ Moja aplikácia obsahuje štyri metódy main v súbore SemestralnaPraca.cpp. Pre
 # Prvá úroveň
 
 **Diagram aktivít univerzálneho algoritmu**
-![image](https://github.com/Davone2564/AUS_Semestralna_praca/assets/45235000/54e95b78-0deb-46d1-9c53-a8877d6f9b5f)
 
-**  
-**
+![image](https://github.com/Davone2564/AUS_Semestralna_praca/assets/45235000/54e95b78-0deb-46d1-9c53-a8877d6f9b5f)
 
 **Programátorská príručka**
 

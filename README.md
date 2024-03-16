@@ -81,3 +81,4 @@ V tejto úrovni sme mali povkladať všetky územné jednotky do tabuľky obsahu
 # Štvrtá úroveň
 
 V štvrtej úrovni sme triedili výstupy funkcií z predchádzajúcich úrovní pomocou dvoch spôsobov(abecedne a pomocou počtu samohlások). Pri triedení pomocou počtu samohlások vypisujem na konzolu ku každej územnej jednotke aj počet samohlások v jej názve. Na triedenie som použil triediaci algoritmus QuickSort lebo má lepšiu zložitosť ako triediace algoritmy s priamym vkladaním. Jeho zložitosť je O(n\*log(n)).
+![image](https://github.com/Davone2564/AUS_Semestralna_praca/assets/45235000/691b3c31-0c3a-4af9-b2c2-547ab52c6707)

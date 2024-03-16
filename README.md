@@ -39,7 +39,7 @@ Moju aplikáciu som si rozdelil do viacerých úrovní. Algoritmy týkajúce sa 
 
 # UML diagram tried
 
-![Obrázok, na ktorom je text, snímka obrazovky, diagram, rovnobežný Automaticky generovaný popis](media/3c0d5e767589f552804879e81e28e851.png)
+![image](https://github.com/Davone2564/AUS_Semestralna_praca/assets/45235000/2f393662-6281-47bb-a933-31be525bf301)
 
 # Rozbor vhodnosti použitia údajových štruktúr
 
@@ -61,7 +61,8 @@ Moja aplikácia obsahuje štyri metódy main v súbore SemestralnaPraca.cpp. Pre
 
 # Prvá úroveň
 
-![Obrázok, na ktorom je text, diagram, rad, plán Automaticky generovaný popis](media/b1335ecc0baa61f96e4eb6107a9ef4ca.png)**Diagram aktivít univerzálneho algoritmu**
+**Diagram aktivít univerzálneho algoritmu**
+![image](https://github.com/Davone2564/AUS_Semestralna_praca/assets/45235000/54e95b78-0deb-46d1-9c53-a8877d6f9b5f)
 
 **  
 **
@@ -81,4 +82,3 @@ V tejto úrovni sme mali povkladať všetky územné jednotky do tabuľky obsahu
 # Štvrtá úroveň
 
 V štvrtej úrovni sme triedili výstupy funkcií z predchádzajúcich úrovní pomocou dvoch spôsobov(abecedne a pomocou počtu samohlások). Pri triedení pomocou počtu samohlások vypisujem na konzolu ku každej územnej jednotke aj počet samohlások v jej názve. Na triedenie som použil triediaci algoritmus QuickSort lebo má lepšiu zložitosť ako triediace algoritmy s priamym vkladaním. Jeho zložitosť je O(n\*log(n)).
-![image](https://github.com/Davone2564/AUS_Semestralna_praca/assets/45235000/691b3c31-0c3a-4af9-b2c2-547ab52c6707)
